@@ -5,12 +5,12 @@
 1. **Clone the Repository:**
 
      ```bash
-     git clone https://github.com/faialotaibi/github-actions-app.git
+     git clone https://github.com/faialotaibi/flask-github-actions.git
      ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd github-actions-app
+   cd flask-github-actions
    ```
 
 3. **Set Up a Virtual Environment:**

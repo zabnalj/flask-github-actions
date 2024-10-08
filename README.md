@@ -40,16 +40,3 @@
    ```
    pytest
    ```
-### Build and Run the Docker Images
-
-1. Build image
-
-```
-docker build -t your-image-name .
-```
-
-2. 
-```
-docker run -p 5000:5000 your-image-name
-```
-# flask-github-actions
